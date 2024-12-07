@@ -5,5 +5,5 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun Main() {
-    Text(text = "ji3jij")
+    Text(text = "再想一下")
 }
